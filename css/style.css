@@ -1,0 +1,15 @@
+.cub{ 
+    width: 200px; 
+    height: 200px; 
+    background-color: rgb(0, 221, 255); 
+    margin: 10px 10px; 
+} 
+.parent-div{ 
+display: flex; 
+justify-content: space-around; 
+justify-content: space-between; 
+justify-content: flex-start; 
+//justify-content: flex-end; 
+ 
+ 
+}
